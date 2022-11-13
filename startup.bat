@@ -1,0 +1,11 @@
+cd \Users\Workgroup\AppData\Local\Programs\Python\Python311
+python contact.py
+python viewReport.py
+python report.py
+python viewReport.py
+python report.py
+python viewReport.py
+python report.py
+python viewReport.py
+python report.py
+python viewReport.py
